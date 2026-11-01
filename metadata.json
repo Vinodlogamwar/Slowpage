@@ -1,0 +1,7 @@
+{
+  "name": "Slow Page Report",
+  "description": "See the slow page before your users do.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
